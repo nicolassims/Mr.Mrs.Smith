@@ -1,8 +1,17 @@
-#red {
-  color: red; }
+p {
+  font-size: 1.4rem; }
+
+h1 {
+  font-size: 4.9rem; }
+
+h5 {
+  font-size: 2rem; }
 
 .adobeGaramondPro {
   font-family: "Adobe Garamond Pro"; }
+
+#red {
+  color: red; }
 
 #helvetica {
   font-family: Helvetica; }
